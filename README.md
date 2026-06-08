@@ -24,3 +24,9 @@ Supports proxy rotation to avoid rate limits and bulk scanning from a text file.
 2. (Optional) Make it executable:
    ```bash
    chmod +x discord_checker.py
+
+## Important Notes
+1. Legal use - only check usernames for legitimate purposes. Do not abuse the service.
+2. License - this script is provided as‑is for educational purposes. Use at your own risk.
+
+

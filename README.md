@@ -20,7 +20,7 @@ Supports proxy rotation to avoid rate limits and bulk scanning from a text file.
 
 ## Installation
 
-1. Save the script as `discord_checker.py`
+1. Save the script as `main.py`
 2. (Optional) Make it executable:
    ```bash
    chmod +x discord_checker.py

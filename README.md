@@ -1,4 +1,4 @@
-# Discord Username Availability Checker
+# ClaimCord - Discord Username Availability Checker
 
 A Python script that checks whether Discord usernames are available or taken using Discord’s public API.  
 Supports proxy rotation to avoid rate limits and bulk scanning from a text file.
